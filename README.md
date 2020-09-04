@@ -16,7 +16,7 @@ Simple QR code generator using the Vue.js framework.
  Go into the QRcode-generator path
 $ cd QRcode-generator
 
- Run the QRcode-generato
+ Run the QRcode-generator
 $ npm run qrcode  
 ```
 
